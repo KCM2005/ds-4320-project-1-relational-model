@@ -180,9 +180,7 @@ My refined specific problem for Project 1 is: Predicting the 30-day risk of hosp
 ![ER Diagram]("ER Diagram.png")
 
 ## Data Table
-| Table Name     | Description                                           | Link to CSV                                                                 |
-|----------------|-------------------------------------------------------|------------------------------------------------------------------------------|
-| Diabetes data  | Hospitalized diabetic patient records (1999-2008)     | https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008 |
+Tables are in the "data" folder
 
 ## Data Dictionary
 | Feature Name       | Data Type   | Description                              | Example     |
