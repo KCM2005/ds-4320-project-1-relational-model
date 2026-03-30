@@ -177,7 +177,7 @@ My refined specific problem for Project 1 is: Predicting the 30-day risk of hosp
 3. Mitigation: Validate model on external datasets and use data augmentation.
 
 ## Schema
-![ER Diagram](ER Diagram.png)
+![ER Diagram](ER_Diagram.png)
 
 ## Data Table
 Tables are in the "data" folder
