@@ -13,13 +13,13 @@ kew6jk
 [Project 1 - DOI](https://doi.org/10.5281/zenodo.19323230)
 
 # Press release
-insert press release link
+[Press release](https://github.com/KCM2005/ds-4320-project-1-relational-model/blob/main/Press_Release.md)
 
 # Data
-[insert data folder link](https://github.com/KCM2005/ds-4320-project-1-relational-model/tree/main/data)
+[Data folder](https://github.com/KCM2005/ds-4320-project-1-relational-model/tree/main/data)
 
 # Pipeline
-[insert pipeline files link](https://github.com/KCM2005/ds-4320-project-1-relational-model/blob/main/readmission_risk.py)
+[Pipeline files](https://github.com/KCM2005/ds-4320-project-1-relational-model/blob/main/readmission_risk.py)
 
 # License
 MIT License
@@ -38,7 +38,7 @@ The motivation for this refined problem stems from the significant burden of dia
 
 ## Headline of Press Release and link to press release
 Headline: "Insulin Management Insights: Analysis Reveals Link Between Insulin Usage and 30-day Readmissions."
-Link: 
+Link: https://github.com/KCM2005/ds-4320-project-1-relational-model/blob/main/Press_Release.md
 
 
 ## Terminology of KPIs
