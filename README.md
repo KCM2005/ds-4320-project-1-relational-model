@@ -180,7 +180,7 @@ My refined specific problem for Project 1 is: Predicting the 30-day risk of hosp
 3. Mitigation: Validate model on external datasets and use data augmentation.
 
 ## Schema
-![ER Diagram](ER_Diagram.png)
+[![ER Diagram](ER_Diagram.png)](https://github.com/KCM2005/ds-4320-project-1-relational-model/blob/main/data/figures/ER_Diagram.png)
 
 ## Data Table
 | File / Step    | Description                                                                   | Link / Source                                                                                                                                                                    |
