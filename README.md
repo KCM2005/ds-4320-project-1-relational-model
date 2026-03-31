@@ -16,7 +16,7 @@ kew6jk
 insert press release link
 
 # Data
-insert data folder link
+[insert data folder link](https://github.com/KCM2005/ds-4320-project-1-relational-model/tree/main/data)
 
 # Pipeline
 insert pipeline files link
