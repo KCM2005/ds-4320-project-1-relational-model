@@ -1,7 +1,8 @@
 # DS 4320 Project 1: Predicting Hospital Readmission Risk
-This is my repository for DS 4320 Project 1
+Repository for DS 4320 Project 1
 
 # Executive Summary
+Hospital readmissions represent a significant challenge in the care of American diabetic patients, often indicating gaps in treatment and management. This analysis delves into the critical role of insulin usage patterns in predicting 30-day hospital readmissions among this population. The analysis reveals insights into insulin usage and 30-day hospital readmission risk for diabetic patients. Patients with decreasing ("Down") insulin usage have the lowest readmission rate (4.5%), suggesting stable diabetes management. Those with no insulin usage have a higher risk (12.6%), potentially indicating poor control or non-compliance. Patients with steady insulin usage have a moderate risk (7.4%), implying managed diabetes but with other contributing factors like comorbidities. Patients with increasing ("Up") insulin usage show a complex profile, with equal likelihood of readmission within 30 days, after 30 days, or no readmission, suggesting advanced disease or complications. Key takeaways: "Down" insulin usage is linked to lower risk, "No" to higher risk, "Steady" to moderate risk, and "Up" to complex patient profiles.
 
 # Name
 Kalenga Mumba
@@ -70,7 +71,6 @@ Link: https://github.com/KCM2005/ds-4320-project-1-relational-model/blob/main/Pr
 | diabetesMed              | Whether patient is on any diabetes medication                 | Captures overall treatment status                                           |
 | A1Cresult                | Most recent A1C test result category (e.g., normal, >7%, >8%) | Key indicator of blood sugar control, used to monitor diabetes management   |
 | readmitted               | Whether patient was readmitted within 30 days              | Key outcome KPI for quality of care and hospital performance                |
-
 
 ## Paragraph explaining the domain
 This project lives in the domain of healthcare analytics, specifically predicting readmission risk for diabetic patients. It leverages Electronic Health Record (EHR) data and machine learning to analyze patient demographics (age, gender, race), and analyzes how they relate to hospital admission rates across a number of key performance indicators such as time/days spent in hospital (to capture severity of condition), number of diagnoses (relevant to capture patient complexity and multimorbidity), and readmission occurring within 30 days (relevant to capture quality of care and hospital performance). By identifying patterns in these data, the project aims to predict 30-day readmission risk, enabling targeted interventions like telehealth monitoring to improve patient outcomes.
