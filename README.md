@@ -31,13 +31,15 @@ Initial General Problem: Predicting hospital readmission risk
 Refined Specific Problem: Analyzing the 30-day risk of hospital readmission for American diabetic patients based on their insulin usage patterns.
 
 ## Rationale for refinement
-The refined problem statement, "Analyzing the 30-day risk of hospital readmission for American diabetic patients based on their insulin usage patterns," is crucial because it targets a high-risk demographic. Focusing on the 30-day risk is critical as it's a key metric for healthcare quality and reimbursement, allowing timely interventions. Specifying "adult American diabetic patients" ensures relevance to adult care protocols. Focusing on insulin usage is key, as insulin therapy is a critical aspect of diabetes management, and its usage adherence significantly impacts blood sugar control and complication risk. This specificity allows for the development of more accurate and tailored predictive models, informing targeted interventions and resource allocation to reduce costly hospital readmissions. This specificity enables accurate predictive models, informing targeted interventions and resource allocation to reduce hospital readmissions.
+The refined problem statement is highly relevant because it addresses a significant healthcare challenge with a focused approach. Diabetic patients, regardless of age, are a demographic known to have a higher risk of hospital readmissions due to the chronic nature of diabetes and its associated complications. Focusing on the critical 30-day readmission risk allows for timely interventions and aligns with key healthcare quality metrics. By analyzing insulin usage patterns, a fundamental aspect of diabetes management, the problem enables the development of precise predictive models. This specificity is crucial for implementing targeted interventions and improving patient care, ultimately aiming to reduce costly hospital readmissions across a broad patient population.
 
 ## Motivation
 The motivation for this refined problem stems from the significant burden of diabetes on individuals and the healthcare system, coupled with the high rates of hospital readmissions among diabetic patients. Diabetes is a chronic condition often complicated by comorbidities like cardiovascular disease, kidney disease, and obesity, leading to hospitalizations. Reducing these readmissions is not only a matter of improving patient outcomes and quality of life by preventing complications and ensuring continuity of care, but also a significant economic imperative. Therefore, developing a precise model to identify diabetic patients at high risk of readmission can drive the implementation of proactive care management, patient education, and post-discharge support, leading to better health outcomes and a more efficient healthcare system.
 
 ## Headline of Press Release and link to press release
-add link here
+Headline: "Insulin Management Insights: Analysis Reveals Link Between Insulin Usage and 30-day Readmissions."
+Link: 
+
 
 ## Terminology of KPIs
 | **Term / KPI**           | **Description**                                               | **Relevance to Domain**                                                     |
