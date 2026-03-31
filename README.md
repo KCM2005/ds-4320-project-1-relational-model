@@ -22,7 +22,8 @@ insert data folder link
 insert pipeline files link
 
 # License
-insert license
+MIT License
+https://github.com/KCM2005/ds-4023-project-1-relational-model/blob/main/LICENSE
 
 ## Problem Definition
 Initial General Problem: Predicting hospital readmission risk
