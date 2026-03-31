@@ -183,7 +183,13 @@ My refined specific problem for Project 1 is: Predicting the 30-day risk of hosp
 ![ER Diagram](ER_Diagram.png)
 
 ## Data Table
-Tables are in the "data" folder
+| File / Step    | Description                                                                   | Link / Source                                                                                                                                                                    |
+| -------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| patients.csv   | Contains patient demographic information such as age, gender, and race        | [https://github.com/KCM2005/ds-4023-project-1-relational-model/blob/main/patients.csv](https://github.com/KCM2005/ds-4023-project-1-relational-model/blob/main/patients.csv)     |
+| encounters.csv | Records of hospital visits, including admission and discharge dates           | [https://github.com/KCM2005/ds-4023-project-1-relational-model/blob/main/encounters.csv](https://github.com/KCM2005/ds-4023-project-1-relational-model/blob/main/encounters.csv) |
+| treatments.csv | Details of treatments provided during hospital stays, including insulin usage | [https://github.com/KCM2005/ds-4023-project-1-relational-model/blob/main/treatments.csv](https://github.com/KCM2005/ds-4023-project-1-relational-model/blob/main/treatments.csv) |
+| outcomes.csv   | Tracks patient outcomes, including readmission within 30 or 90 days           | [https://github.com/KCM2005/ds-4023-project-1-relational-model/blob/main/outcomes.csv](https://github.com/KCM2005/ds-4023-project-1-relational-model/blob/main/outcomes.csv)     |
+
 
 ## Data Dictionary
 | Feature Name       | Data Type   | Description                              | Example     |
