@@ -1,4 +1,4 @@
-# DS 4320 Project 1: Predicting Hospital Readmission Risks
+# DS 4320 Project 1: Predicting Hospital Readmission Risk
 This is my repository for DS 4320 Project 1
 
 # Executive Summary
