@@ -19,7 +19,7 @@ insert press release link
 [insert data folder link](https://github.com/KCM2005/ds-4320-project-1-relational-model/tree/main/data)
 
 # Pipeline
-insert pipeline files link
+[insert pipeline files link](https://github.com/KCM2005/ds-4320-project-1-relational-model/blob/main/readmission_risk.py)
 
 # License
 MIT License
