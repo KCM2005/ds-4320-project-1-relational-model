@@ -118,26 +118,26 @@ My refined specific problem for Project 1 is: Predicting the 30-day risk of hosp
 
 ## Bias Mitigation
 Selection Bias:
-    - Weighting: Apply weights to match national diabetes prevalence rates.
+- Weighting: Apply weights to match national diabetes prevalence rates.
 
 Geographic Bias:
-    - Stratification: Given the 130 hospitals, could be analyzed by location of hospitals or hospital type or hospital size.
+- Stratification: Given the 130 hospitals, could be analyzed by location of hospitals or hospital type or hospital size.
    
 Time Period Bias:
-     - Data Augmentation: Incorporate more recent data.
+- Data Augmentation: Incorporate more recent data.
 
 Measurement Bias:
-    - Data Harmonization: Standardize variables across the 130 hospitals if possible.
-    - Stratification: Analyze by hospital or data collection practices.
+- Data Harmonization: Standardize variables across the 130 hospitals if possible.
+- Stratification: Analyze by hospital or data collection practices.
 
 Socioeconomic Bias:
-    - Weighting: Adjust for insurance status.
-    - Stratification: Analyze subgroups by socioeconomic factors.
+- Weighting: Adjust for insurance status.
+- Stratification: Analyze subgroups by socioeconomic factors.
 
 Data Quality Bias:
-    - Data Validation: Check for inconsistencies and outliers.
-    - Imputation: Handle missing values appropriately (e.g., multiple imputation).
-    - Sensitivity Analysis: Assess impact of missing/de-identified data.
+- Data Validation: Check for inconsistencies and outliers.
+- Imputation: Handle missing values appropriately (e.g., multiple imputation).
+- Sensitivity Analysis: Assess the impact of missing/de-identified data.
 
 ## Rationale 
 - Data Inclusion Criteria:
