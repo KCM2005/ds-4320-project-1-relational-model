@@ -117,36 +117,27 @@ My refined specific problem for Project 1 is: Predicting the 30-day risk of hosp
 - Data Quality Bias: Missing values and potential errors in data extraction (e.g., during the de-identification process may have removed relevant information) may both impact analysis.
 
 ## Bias Mitigation
-- Selection Bias:
+Selection Bias:
+    - Weighting: Apply weights to match national diabetes prevalence rates.
 
-1. Weighting: Apply weights to match national diabetes prevalence rates.
-2. Data Augmentation: Supplement with outpatient data or other relevant datasets.
+Geographic Bias:
+    - Stratification: Given the 130 hospitals, could be analyzed by location of hospitals or hospital type or hospital size.
+   
+Time Period Bias:
+     - Data Augmentation: Incorporate more recent data.
 
-- Geographic Bias:
+Measurement Bias:
+    - Data Harmonization: Standardize variables across the 130 hospitals if possible.
+    - Stratification: Analyze by hospital or data collection practices.
 
-1. Stratification: Analyze by states, region or country if data allows.
-2. External Validation: Test model on non-U.S. datasets.
+Socioeconomic Bias:
+    - Weighting: Adjust for insurance status.
+    - Stratification: Analyze subgroups by socioeconomic factors.
 
-- Time Period Bias:
-
-1. Sensitivity Analysis: Compare results with newer datasets if available.
-2. Data Augmentation: Incorporate more recent data.
-
-- Measurement Bias:
-
-1. Data Harmonization: Standardize variables across hospitals if possible.
-2. Stratification: Analyze by hospital or data collection practices.
-
-- Socioeconomic Bias:
-
-1. Weighting: Adjust for insurance status or income levels.
-2. Stratification: Analyze subgroups by socioeconomic factors.
-
-- Data Quality Bias:
-
-1. Data Validation: Check for inconsistencies and outliers.
-2. Imputation: Handle missing values appropriately (e.g., multiple imputation).
-3. Sensitivity Analysis: Assess impact of missing/de-identified data.
+Data Quality Bias:
+    - Data Validation: Check for inconsistencies and outliers.
+    - Imputation: Handle missing values appropriately (e.g., multiple imputation).
+    - Sensitivity Analysis: Assess impact of missing/de-identified data.
 
 ## Rationale 
 - Data Inclusion Criteria:
